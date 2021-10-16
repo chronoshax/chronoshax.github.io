@@ -1,0 +1,15 @@
+{
+  "background_color": "black",
+  "description": "ChronosHax loads an Android executable",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "chronoxhax.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "chronoshax",
+  "short_name": "chronoxhax",
+  "start_url": "/pwa-examples/a2hs/index.html"
+}
