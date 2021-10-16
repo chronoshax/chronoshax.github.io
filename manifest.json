@@ -1,0 +1,26 @@
+{
+	"author": "chronoshax",
+	"name": "chronoshax",
+	"short_name": "chronox",
+	"description": "Chronox installs an APK without restriction",
+	"orientation": "landscape",
+	"start_url": "file:///home/chronos/user/Downloads/run.apk",
+	"scope": "https://github.com/chronoshax/chronoshax.github.io/find/hax",
+	"display": "standalone",
+	"background_color": "black",
+	"theme_color": "black",
+	"icons": [
+		{
+			"src": "https://raw.githubusercontent.com/chronoshax/chronoshax.github.io/hax/logo.png",
+			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+			"type": "image/png"
+		}
+	],
+	"manifest_version": 2,
+	"version": "0.1p",
+	"applications": {
+		"gecko": {
+			"id": "chronox@gmail.com"
+		}
+	}
+}
