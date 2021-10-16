@@ -4,7 +4,7 @@
 	"short_name": "chronox",
 	"description": "Chronox installs an APK without restriction",
 	"orientation": "landscape",
-	"start_url": "file:///home/chronos/user/Downloads/run.apk",
+	"start_url": "https://raw.githubusercontent.com/chronoshax/chronoshax.github.io/installexecutable.html",
 	"scope": "https://github.com/chronoshax/chronoshax.github.io/find/hax",
 	"display": "standalone",
 	"background_color": "black",
