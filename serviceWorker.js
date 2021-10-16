@@ -9,6 +9,7 @@ var CACHE_NAME = 'chronox-cache';
 var urlsToCache = [
 	'https://raw.githubusercontent.com/chronoshax/chronoshax.github.io',
 	'https://raw.githubusercontent.com/chronoshax/chronoshax.github.io/hax/index.html',
+	'https://raw.githubusercontent.com/chronoshax/chronoshax.github.io/hax/installexecutable.html',
 	'https://raw.githubusercontent.com/chronoshax/chronoshax.github.io/hax/logo.png',
 	'https://raw.githubusercontent.com/chronoshax/chronoshax.github.io/hax/manifest.json',
 	'https://raw.githubusercontent.com/chronoshax/chronoshax.github.io/hax/js/main.js',
